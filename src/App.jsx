@@ -8,11 +8,11 @@ function App() {
 
   const dispatch = useDispatch();
 
-  // console.log(useSelector(state => state));
+  // console.log(useSelector(state => state.counter)); // Returns {counter: 0}
 
   const { counter } = useSelector(state => state.counter);
 
-  // console.log(counter);
+  // console.log(counter); // Returns 0
 
   return (
     <div>
