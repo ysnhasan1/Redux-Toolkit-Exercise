@@ -8,9 +8,9 @@ function App() {
 
   const dispatch = useDispatch();
 
-  // console.log(useSelector(state => state.counter)); // Returns {counter: 0}
+  // console.log(useSelector(state => state.counterReducer)); // Returns {value: 0}
 
-  const { counter } = useSelector(state => state.counter);
+  const { counter } = useSelector(state => state.counterReducer);
 
   // console.log(counter); // Returns 0
 
