@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+#counter {
+    color: red;
+    margin: 40px;
+}
+
+.changeFuncs {
+    border: 1px solid black;
+    margin-bottom: 30px;
+    cursor: pointer;
+    width: 30%;
+    margin-left: 35%;
+}
+
+.custom {
+    color: sandybrown;
+    font-size: 40px;
+}
