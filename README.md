@@ -12,4 +12,4 @@ I am learning Redux Toolkit to make state management easier on multi-page websit
 </div>
 
 ## Npm
-* To install packages `npm install` after that to run `npm start` or `npm run dev`.
+* To install packages `npm install` after that to run `npm run dev`.
